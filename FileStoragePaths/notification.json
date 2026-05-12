@@ -1,0 +1,31 @@
+[
+  {
+    "Id": "b9593214-6cd0-4752-9080-d011721f9112",
+    "NotificationContent": "Your Task Reading described as\n            reading on c# with ee0a52c9-2e30-4f9c-8d0c-b3abcf74a32d in \n            EDUCATION is Undone",
+    "NotificationType": 3,
+    "TodoId": "ee0a52c9-2e30-4f9c-8d0c-b3abcf74a32d",
+    "TodoItem": {
+      "Id": "ee0a52c9-2e30-4f9c-8d0c-b3abcf74a32d",
+      "TaskName": "Reading",
+      "TaskDescription": "reading on c#",
+      "CategoryId": "44eaa1de-ea26-41d1-b02a-96af30a7db93",
+      "Category": {
+        "Id": "44eaa1de-ea26-41d1-b02a-96af30a7db93",
+        "Name": "EDUCATION",
+        "Description": "NO DESCRIPTION\u0027",
+        "PassWord": "",
+        "DateCreated": "2026-05-11T04:20:05.5107151Z"
+      },
+      "Status": 3,
+      "PassWord": "",
+      "CreatedAt": "2026-05-11T04:20:50.4725628Z",
+      "DateStarted": null,
+      "CompleteAt": null,
+      "DueDate": null,
+      "IsStarted": false,
+      "IsCompleted": false
+    },
+    "DateSent": "2026-05-10T21:20:50.526199-07:00",
+    "IsRead": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "ee0a52c9-2e30-4f9c-8d0c-b3abcf74a32d",
+    "TaskName": "reading on c#",
+    "TaskDescription": "Reading",
+    "CategoryId": "44eaa1de-ea26-41d1-b02a-96af30a7db93",
+    "Category": {
+      "Id": "44eaa1de-ea26-41d1-b02a-96af30a7db93",
+      "Name": "EDUCATION",
+      "Description": "NO DESCRIPTION\u0027",
+      "PassWord": "",
+      "DateCreated": "2026-05-11T04:20:05.5107151Z"
+    },
+    "Status": 2,
+    "PassWord": "",
+    "CreatedAt": "2026-05-11T04:20:50.4725628Z",
+    "DateStarted": null,
+    "CompleteAt": null,
+    "DueDate": null,
+    "IsStarted": false,
+    "IsCompleted": false
+  }
+]
